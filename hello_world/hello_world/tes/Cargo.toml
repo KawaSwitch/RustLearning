@@ -1,6 +1,0 @@
-[package]
-name = "tes"
-version = "0.1.0"
-authors = ["KarutaSwitch <bb35316013@ms.nagasaki-u.ac.jp>"]
-
-[dependencies]
